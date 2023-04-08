@@ -1,0 +1,1 @@
+//prototype jo ha object ko inheret or 
